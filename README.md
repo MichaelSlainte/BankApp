@@ -1,7 +1,7 @@
 # BankApp
 BankApp with Java Spring.
 
-Autors: Michael Marques, Aleksandro Candido, Nuno Forjaz.
+- Autors: Michael Marques, Aleksandro Candido, Nuno Forjaz.
 
 Introduction
 The aim of this project is to build an online banking system with certain attributes. 

@@ -71,6 +71,8 @@ UserServiceImpl class that works as a user authentication provider.
 
 The next step was to add the user front page. We added an html file for the user once the user loggs in where we display all of the relevant information for the user account such as the account balace etc. Then we added a controler folder and a @RequestMapping annotation to along with user to go into the primary and the saving account with the logout option (refer to code for web design functionality). To add a deposit and withdraw functionality we needed to first  along with the deposit and withdraw transation functionality we needed to first: 
 
+Finally we added the appointment option where the user can create appointments same process as the rest of the options. Created a template included the cities etc. 
+
 # References: 
 - Spring Boot <https://projects.spring.io/spring-boot/>
 
